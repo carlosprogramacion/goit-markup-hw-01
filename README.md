@@ -4,4 +4,5 @@ Repositorio goit full stack 07-01
 
 
 una rama ) Cabecera
-Una rama ) Pie de pagina
+una rama ) Pie de pagina
+una rama ) Cuerpo
